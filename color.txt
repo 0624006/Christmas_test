@@ -1,0 +1,6 @@
+light_ball_color
+
+CD0000
+0B5494
+0AAA1A
+D6AE00
